@@ -1,6 +1,5 @@
 return {
     ["a"] = {
-        "aal",
         "aan",
         "aau",
         "aba",
