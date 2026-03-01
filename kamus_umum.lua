@@ -2613,5 +2613,6 @@ return {
         ["enkripsi"] = "Umum",
         ["dekripsi"] = "Umum",
         ["autentikasi"] = "Umum",
+        ["ksa"] = "Umum",
     }
 }
