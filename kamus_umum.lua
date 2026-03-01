@@ -2669,7 +2669,7 @@ return {
         ["oxford"] = "Umum",
         ["oops"] = "Umum",
         ["rhinoplax"] = "Umum",
-        ["adax"] = "Umum",
+        ["addax"] = "Umum",
         ["axis"] = "Umum",
     }
 }
