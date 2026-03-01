@@ -2665,5 +2665,11 @@ return {
         ["iflis"] = "Umum",
         ["ifat"] = "Umum",
         ["iforia"] = "Umum",
+        ["axel"] = "Umum",
+        ["oxford"] = "Umum",
+        ["oops"] = "Umum",
+        ["rhinoplax"] = "Umum",
+        ["adax"] = "Umum",
+        ["axis"] = "Umum",
     }
 }
