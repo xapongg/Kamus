@@ -2612,7 +2612,7 @@ return {
         ["koneksi"] = "Umum",
         ["enkripsi"] = "Umum",
         ["dekripsi"] = "Umum",
-        ["autentikasi"] = "Umum",\1        -- Tambahan (Auto-Ops)
+        ["autentikasi"] = "Umum",
         ["abortif"] = "Umum",
         ["absorptif"] = "Umum",
         ["adaptif"] = "Umum",
